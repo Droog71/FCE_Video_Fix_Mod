@@ -1,0 +1,66 @@
+﻿<Chapter>
+	<Handle>VideoTutorials</Handle>
+	<Title>Video Tutorials!</Title>
+	<Icon>ARTHER Dapper Pack</Icon>
+	<Hidden>false</Hidden>
+<!-- ?? -->
+	<Pages>
+		<Page>
+      <Paragraphs>
+        <Title>
+          <Text>Video Tutorials</Text>
+        </Title>
+        <Icon>
+          <Name>ARTHER Dapper Pack</Name>
+        </Icon>
+        <Spacer/>
+        <Spacer/>
+        <Spacer/>
+        <Link>
+          <Target>
+            <URL>https://www.youtube.com/watch?v=KT_eI01IKDE</URL>
+            <!-- Full screen, auto-playing URL-->
+          </Target>
+          <Text> Click here for the FortressCraft Tutorial</Text>
+        </Link>
+        <Spacer/>
+        <Link>
+          <Target>
+            <URL>https://www.youtube.com/watch?v=JI5et-FhqIk</URL>
+            <!-- Full screen, auto-playing URL-->
+          </Target>
+          <Text> Click here for the Ore Extractor Tutorial</Text>
+        </Link>
+        <Spacer/>
+        <Link>
+          <Target>
+            <URL>https://www.youtube.com/watch?v=TyVFcarL25I</URL>
+            <!-- Full screen, auto-playing URL-->
+          </Target>
+          <Text> Click here for the Automation Tutorial</Text>
+        </Link>
+        <Spacer/>
+        <Link>
+          <Target>
+            <URL>https://www.youtube.com/watch?v=JKbzhqyex5E</URL>
+            <!-- Full screen, auto-playing URL-->
+          </Target>
+          <Text> Click here for Waervyn's Tutorial</Text>
+        </Link>
+        <Spacer/>
+        <Link>
+          <Target>
+            <URL>https://www.youtube.com/watch?v=qxWSnFjjabo</URL>
+            <!-- Full screen, auto-playing URL-->
+          </Target>
+          <Text> Click here for Gamester4life's Tutorial</Text>
+        </Link>
+        <Spacer/>
+        <Spacer/>
+        <Paragraph>
+          <Text>Want more tutorials? Add them to the xml file in the mod directory!</Text>
+        </Paragraph>
+      </Paragraphs>
+		</Page>
+	</Pages>
+</Chapter>
